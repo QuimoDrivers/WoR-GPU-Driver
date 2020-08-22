@@ -1,1 +1,7 @@
 # WoR-GPU-Driver
+
+The GPU Driver is the most important driver for the WoR Project and we will not rest until we have made one that is stable and working properly!
+
+# DEVELOPERS
+
+JUST ME (QuimoDrivers)
