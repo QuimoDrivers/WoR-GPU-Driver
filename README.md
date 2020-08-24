@@ -4,4 +4,4 @@ The GPU Driver is the most important driver for the WoR Project and we will not 
 
 # DEVELOPERS
 
-JUST ME (QuimoDrivers)
+QuimoDrivers, Big Ed#4154
